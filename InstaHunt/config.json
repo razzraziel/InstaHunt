@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "enforceInventoryLimits": false,
+  "radius": 1500,
+  "maxHeightDifference": 180,
+  "defaultMinutes": 60,
+  "durationPresetsMinutes": [60, 120, 240, 480, 720],
+  "fightTimeoutSeconds": 180,
+  "usePotionsByDefault": false,
+  "stopWhenShotsRunOutByDefault": false
+}
